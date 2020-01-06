@@ -13,7 +13,6 @@ import os
 from telepot.loop import MessageLoop
 import comtypes.client
 import sys
-import win32com.client
 import pythoncom
 
 
