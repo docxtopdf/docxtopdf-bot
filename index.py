@@ -4,7 +4,6 @@ import telepot
 from telegram.ext import Updater
 from telegram.ext import CommandHandler, CallbackQueryHandler
 from pprint import pprint
-from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from flask import Flask,redirect, url_for,request,render_template
 from threading import Thread
 from datetime import datetime,timedelta
