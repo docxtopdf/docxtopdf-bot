@@ -48,8 +48,6 @@ h5py==2.10.0
 hpack==3.0.0
 html2text==2019.9.26
 html5lib==1.0.1
-Hypercorn==0.7.2
-hyperframe==5.2.0
 idna==2.7
 IMAPClient==2.1.0
 importlib-metadata==0.23
