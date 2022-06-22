@@ -68,7 +68,7 @@ more-itertools==7.2.0
 multidict==4.7.2
 nbconvert==5.6.1
 nbformat==4.4.0
-numpy==1.17.4
+numpy==1.22.0
 oauthlib==3.1.0
 olefile==0.46
 pandocfilters==1.4.2
